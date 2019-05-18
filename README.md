@@ -3,17 +3,13 @@ Face detection and facial recognition along with recognized persons information 
 
 General Languages and versions
 
-    •	Python version: 3.6
-    •	Django version: 2.0.3
+    •	Python version: 3.7
+    •	Django version: 2.1.9
     •	OpenCV version: 3.4.0
     •	Mysql Database
 
 Run -
 
     python manage.py runserver
-
-Demo Video:
-
-	https://www.youtube.com/watch?v=kSIoOlkR5Ow&feature=youtu.be
 
 
